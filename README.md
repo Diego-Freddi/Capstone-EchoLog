@@ -2,8 +2,6 @@
 
 EchoLog è una web application avanzata per la registrazione, trascrizione e analisi di contenuti audio e testuali, progettata per aumentare l'efficienza e la produttività nella gestione delle informazioni vocali.
 
-![EchoLog Logo](frontend/src/EchoLog%20Logo1.png)
-
 ## Caratteristiche Principali
 
 ### 🎙️ Registrazione Audio
