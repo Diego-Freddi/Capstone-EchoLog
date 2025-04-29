@@ -60,7 +60,7 @@ EchoLog è una web application avanzata per la registrazione, trascrizione e ana
 
 ## Video Dimostrativo
 
-[Guarda la Demo su YouTube](https://youtu.be/Y0SO22yCzg4)
+[Guarda la Demo su YouTube](https://youtu.be/_vV2c5sPe3k)
 
 ---
 
